@@ -79,8 +79,8 @@ This project is a proof of concept and fan art. It is not intended for commercia
 
 Connect with me!
 
-*   **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-*   **X (Twitter)**: [@yourhandle](https://x.com/yourhandle)
+*   **LinkedIn**: [Ugochukwu Nweze](https://www.linkedin.com/in/ugochukwu-nweze-08812a2b8)
+*   **X (Twitter)**: [@CodesNum80638](https://x.com/CodesNum80638)
 
 ---
 
