@@ -46,8 +46,6 @@ Once the application is running, it's designed for an interactive scrolling expe
 
 This project is best experienced by just scrolling through the entire page and enjoying the visual storytelling and interactive elements.
 
-_No screenshots are available in the project files at this time._
-
 ## Features
 
 *   **Cinematic Scroll Animation**: Smooth, frame-by-frame animation triggered by user scroll, creating a dynamic visual narrative.
